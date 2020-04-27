@@ -104,7 +104,6 @@
 										<option value="">Choose...</option>
 										<option>Male</option>
 										<option>Female</option>
-										<option>Transgender</option>
 
 									</select>
 									<div class="invalid-feedback">Please provide a valid
@@ -256,12 +255,14 @@
 										class="custom-select d-block w-100" id="relationShip"
 										name="relationShip" required="">
 										<option value="">Choose...</option>
-										<option>Father</option>
+										<option>Spouse</option>
+									        <option>Father</option>
 										<option>Mother</option>
 										<option>Brother</option>
 										<option>Sister</option>
+									        <option>Neighborhood</option>
 										<option>Friend</option>
-										<option>Colleaque</option>
+										<option>Colleague</option>
 
 
 									</select>
@@ -490,7 +491,7 @@
 								Leave?</h5>
 							<button class="close" type="button" data-dismiss="modal"
 								aria-label="Close">
-								<span aria-hidden="true">×</span>
+								<span aria-hidden="true">Ã—</span>
 							</button>
 						</div>
 						<div class="modal-body">Select "Logout" below if you are
